@@ -1,0 +1,7 @@
+\\oakcolo-mma01\Alex_Backup_2\VSProjects\MouseClickTest\MouseClick\MouseClick\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+\\oakcolo-mma01\Alex_Backup_2\VSProjects\MouseClickTest\MouseClick\MouseClick\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\oakcolo-mma01\Alex_Backup_2\VSProjects\MouseClickTest\MouseClick\MouseClick\obj\x86\Debug\MouseClick.csproj.GenerateResource.Cache
+\\oakcolo-mma01\Alex_Backup_2\VSProjects\MouseClickTest\MouseClick\MouseClick\bin\Debug\MouseClick.exe
+\\oakcolo-mma01\Alex_Backup_2\VSProjects\MouseClickTest\MouseClick\MouseClick\bin\Debug\MouseClick.pdb
+\\oakcolo-mma01\Alex_Backup_2\VSProjects\MouseClickTest\MouseClick\MouseClick\obj\x86\Debug\MouseClick.exe
+\\oakcolo-mma01\Alex_Backup_2\VSProjects\MouseClickTest\MouseClick\MouseClick\obj\x86\Debug\MouseClick.pdb
